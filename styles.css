@@ -33,4 +33,13 @@
   margin-top: 15px;
 }
 
+h4 {
+  font-style: italic;
+  margin-bottom: 30px;
+}
+
+.full-width-img {
+  width: 100%;
+}
+
 /*# sourceMappingURL=styles.css.map */
